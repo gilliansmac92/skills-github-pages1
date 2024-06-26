@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Gillian Macdonald: Welcome to my blog
 ---
 
