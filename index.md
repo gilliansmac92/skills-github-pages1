@@ -1,4 +1,4 @@
 ---
-Gillian Macdonald: Welcome!
+Gillian Macdonald: Welcome
 ---
 
